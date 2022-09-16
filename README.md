@@ -1,1 +1,4 @@
-# Lee_S_HW1
+# Sumin hi
+
+hello
+
